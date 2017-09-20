@@ -1,0 +1,9 @@
+{
+  "name": "chrome-list-extensions",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@types/chrome": "^0.0.48",
+    "typescript": "^2.5.2"
+  }
+}

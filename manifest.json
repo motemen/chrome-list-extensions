@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+  "name": "List Extensions",
+  "version": "1.0",
+  "permissions": ["management"],
+  "options_page": "main.html"
+}
